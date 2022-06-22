@@ -1,4 +1,4 @@
-This is where corrections to the book:
+This is where updates and corrections to the book:
 <p align="center">
 Advanced Digital System Design using System-on-Chip Field Programmable Gate Arrays<br>
 An Integrated Hardware/Software Approach<br>
